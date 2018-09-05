@@ -1,0 +1,1 @@
+The following is a Spring project for managing customer data. Thedata is persisted within a MySQL database via Hibernate ORM. The Java-based backend project is running as an AWS Elastic Beanstalk instance.The MySQL DB is an Amazon RDS instance. Please check out the project here: http://springonaws.stoitschev.de
